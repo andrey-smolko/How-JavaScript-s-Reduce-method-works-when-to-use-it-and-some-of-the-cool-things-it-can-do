@@ -1,0 +1,1 @@
+Original article [How JavaScript’s Reduce method works, when to use it, and some of the cool things it can do](https://medium.freecodecamp.com/reduce-f47a7da511a9)
